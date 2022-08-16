@@ -7,14 +7,14 @@ Meu primeiro projeto, espero que goste 😊
 
 
 ## Tecnologias Utilizadas
-- HTML
-- CSS
-- JS
+- HTML;
+- CSS;
+- JS;
 ## Como utilizar
 
-1 - Clique na seta da direita para ver o próximo pokemon
+1 - Clique na seta da direita para ver o próximo pokemon;
 
-2 - Clique na seta da esquerda para ver o último pokemon
+2 - Clique na seta da esquerda para ver o último pokemon;
 
 ## Dificuldades que eu tive
 
