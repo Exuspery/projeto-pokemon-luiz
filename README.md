@@ -1,4 +1,4 @@
-# Projeto Pókemon Luiz
+# Projeto Pokémon Luiz
 
 Meu primeiro projeto, espero que goste 😊
 
