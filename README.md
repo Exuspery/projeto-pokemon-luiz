@@ -2,7 +2,8 @@
 
 Meu primeiro projeto, espero que goste 😊
 
-![pokémon](https://user-images.githubusercontent.com/110352269/184757006-7b896bd7-747a-47cf-975a-345ba0ecd1fb.gif)
+![pokemon](https://user-images.githubusercontent.com/110352269/184757437-9b5b4979-eb1e-430c-9005-fe9d1bd3f769.gif)
+
 
 
 ## Tecnologias Utilizadas
