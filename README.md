@@ -13,6 +13,7 @@ Meu primeiro projeto, espero que goste 😊
 ## Como utilizar
 
 1 - Clique na seta da direita para ver o próximo pokemon
+
 2 - Clique na seta da esquerda para ver o último pokemon
 
 ## Dificuldades que eu tive
